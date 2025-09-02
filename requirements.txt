@@ -1,1 +1,2 @@
-requests
+ccxt==3.0.84
+aiohttp==3.8.4
